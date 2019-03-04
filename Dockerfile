@@ -1,3 +1,3 @@
-FROM node:10.7.0-alpine
+FROM node:10.15.2-alpine
 
 RUN npm install -g ionic cordova
